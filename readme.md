@@ -1,7 +1,7 @@
 **Census 2020: Hard to Count Communities** - AEM Final Project
 ---  
 
-#**Research Question:** 
+##**Research Question:** 
 What relationship (i.e., correlation) do demographic factors (e.g., race, ethnicity) have to 2010 Census response rates in Hard To Count Communities?  
 
 *Hypothesis*: Response rates will have a positive correlation with white communities and a negative correlation with populations of color.  
