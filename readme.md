@@ -43,13 +43,13 @@ Create a scatterplot for the independent and dependent variables. After plotting
 
 
 **Replication and Validation**
-The accurcacy of the graphs above was in question, so an attempt to replicate and validate the data source in STATA occured. The TX excel file was imported into STATA using the "import" command, then used the "summarize", "correlate", "regress", and "scatter" commands to compare the independent and dependent variables. The non-HTC tracts were again filterd out, matching the number of observations (i.e., tracts classified as hard to count communities) in the Python code.  
+The accuracy of the graphs above was in question, so an attempt to replicate and validate the data source in STATA occurred. The TX excel file was imported into STATA using the "import" command, then used the "summarize", "correlate", "regress", and "scatter" commands to compare the independent and dependent variables. The non-HTC tracts were again filtered out, matching the number of observations (i.e., tracts classified as hard to count communities) in the Python code.  
 
 
 **Limitations**  
 Bias in Census Data Collection  
->- The Census is subject to nonresponse and sample bias  representation when attempting to find trends and information about undercounted communities
->- Bias also exists in the structure of questions, particularly with those that are socially constructed
+>- The Census is subject to nonresponse, sample, and selcection bias that provides inaccurate representation when attempting to find trends and information about undercounted communities.
+>- Bias also exists in the structure of questions, particularly with those that are socially constructed.
 
 Challenge of Validating Census Data  
 >- The ACS population estimates are in fact based on estimates, which leaves room for a margin of error that will need to be accounted for.  
